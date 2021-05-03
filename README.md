@@ -3,3 +3,11 @@ https://levelup.gitconnected.com/automated-facebook-login-with-puppeteer-2a3b634
 
 ## config.template.json
 これにユーザー名とパスワードを書いて、config.json に名前変更する必要がある。
+
+## cookies.json
+下記のようなからの状態の cookies.json を用意する
+```
+{
+
+}
+```
